@@ -1,2 +1,2 @@
 print("ola back!!!")
-input("Digite seu nome")
+input("digite seu nome")
