@@ -1,2 +1,2 @@
 print("ola back!!!")
-input("digite seu nome")
+print("naruto e melhor que dbz")
